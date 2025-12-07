@@ -1,49 +1,52 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+    
+<!-- İKİ SÜTUNLU ANA YAPI (HTML TABLOSU) -->
+<table>
+<tr>
 
-###
+<!-- SOL SÜTUN: SADECE BEHZAT Ç. GIF'İ -->
+<td width="50%" valign="top">
+  <img src="https://c.tenor.com/7A9fOdEahrkAAAAd/tenor.gif" alt="Behzat Ç. GIF" width="100%" />
+</td>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SemihErgili&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- SAĞ SÜTUN: DİĞER BÜTÜN HER ŞEY -->
+<td width="50%" valign="top">
+  
+  <h2 align="center">Selamlar 👋 Ben Semih</h2>
+  <p align="center">Cyber Security & Software Developer from Ankara.</p>
+  
+  <!-- İSTATİSTİKLER -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SemihErgili&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph"/>
+  </div>
+  
+  <br>
+  
+  <!-- TEKNOLOJİLER -->
+  <div align="center">
+    <h3>Kullandığım Teknolojiler</h3>
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+    </p>
+  </div>
+  
+  <!-- SOSYAL MEDYA -->
+  <div align="center">
+    <h3>Bana Ulaşın</h3>
+    <p>
+      <a href="mailto:ergilisemih7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
+      <a href="https://www.instagram.com/kemalistdesing/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
+      <a href="https://www.linkedin.com/in/semihergili/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
+    </p>
+  </div>
+  
+</td>
+</tr>
+</table>
 
-###
-
-<img align="right" height="450" src="https://c.tenor.com/7A9fOdEahrkAAAAd/tenor.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SemihErgili/SemihErgili/output/snake.svg" alt="Snake animation" />
-
-###
+  
