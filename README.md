@@ -4,7 +4,7 @@
 
 <!-- SOL SÜTUN: SADECE GIF -->
 <td width="50%" valign="top">
-  <img src="https://media.tenor.com/m/V13-421-mZMAAAAC/behzat-c-bir-ankara-polisiyesi.gif" alt="Behzat Ç. GIF" width="100%" />
+  <img src="https://i.pinimg.com/originals/34/67/ea/3467eaf458ca8ea9f1f4b1389ca1e28e.jpg" alt="Behzat Ç. GIF" width="100%" />
 </td>
 
 <!-- SAĞ SÜTUN: DİĞER BÜTÜN BİLGİLER -->
