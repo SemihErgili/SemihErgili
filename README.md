@@ -1,47 +1,37 @@
 <!-- ANA MERKEZLEME KUTUSU -->
 <div align="center">
 
-<!-- AÇILIŞ: HAREKETLİ YAZI -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F7A0&center=true&vCenter=true&width=600&lines=SEM%C4%B0H+ERG%C4%B0L%C4%B0;Cyber+Security+%26+Software+Development;Turning+Coffee+into+Secure+Code" alt="Typing SVG" />
-</a>
+<!-- AÇILIŞ: NEON TABELA GİBİ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=B22222&height=150&section=header&text=KIRMIZI,%20DAHA%20KIRMIZI...&fontSize=45&fontColor=B22222&animation=fadeIn" />
+
+<!-- BEHZAT Ç. GİF'İ -->
+<img src="https://media1.tenor.com/m/2H8x0wZnvnEAAAAC/behzat-c-harun.gif" width="100%" style="border-radius:10px;"/>
 
 <br>
-
-<!-- SPOTIFY: ŞU AN ÇALAN ŞARKI (OTOMATİK) -->
-<h3>🎵 Now Playing on Spotify</h3>
-<a href="https://open.spotify.com/user/SENIN_SPOTIFY_KULLANICI_ADIN">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" style="width: 400px; border-radius: 10px;"/>
-</a>
-<p><small>(Bu özelliğin çalışması için Spotify hesabını Vercel'e bağlaman gerekebilir)</small></p>
-
 <br>
 
-<!-- TEKNOLOJİLER -->
-<h3>🛠️ My Tech Stack</h3>
+<!-- HAKKIMDA BÖLÜMÜ -->
+<h2>:black_skull: Hakkımda</h2>
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  Ankara'nın gri gecelerinde, <b>kodun</b> ve <b>hayatın</b> bug'larıyla boğuşan bir geliştirici.<br>
+  Sistemlerin karanlık dehlizlerinde gezinir, satır aralarındaki anlamı ararım.<br>
+  La bize her yer Ankara!
 </p>
 
 <br>
 
-<!-- İKİ SÜTUNLU İSTATİSTİK BÖLÜMÜ -->
-<h3>📊 My GitHub Stats</h3>
-<table>
+<!-- İKİ SÜTUNLU İSTATİSTİK BÖLÜMÜ (KOYU TEMA) -->
+<h3>:chart_with_upwards_trend: Terminal Kayıtları</h3>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/SemihErgili">
-        <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
       </a>
     </td>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/SemihErgili">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihErgili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihErgili&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
       </a>
     </td>
   </tr>
@@ -49,17 +39,29 @@
 
 <br>
 
-<!-- HAREKETLİ YILAN GRAFİĞİ -->
-<h3>🐍 My Contribution Snake</h3>
-<img src="https://github.com/SemihErgili/SemihErgili/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- PİLLİ BEBEK PLAYLIST -->
+<h3>:broken_heart: Playlist: Gecenin Karanlığı</h3>
+<div align="left" style="width: 80%; margin: auto; background-color: #101010; border-left: 5px solid #B22222; padding: 15px; border-radius: 5px;">
+  <ul>
+    <li><b>Pilli Bebek</b> - <i>Olsun</i></li>
+    <li><b>Pilli Bebek</b> - <i>Bak</i></li>
+    <li><b>Teoman</b> - <i>Uykusuz Her Gece</i></li>
+    <li><b>Duman</b> - <i>Kırmış Kalbini</i></li>
+    <li><b>Müslüm Gürses</b> - <i>Paramparça</i></li>
+  </ul>
+</div>
 
 <br>
+<br>
 
-<!-- İLETİŞİM BUTONLARI -->
-<h3>📬 Contact Me</h3>
-<p>
-  <a href="mailto:ergilisemih7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/kemalistdesing/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<!-- HAREKETLİ YILAN GRAFİĞİ -->
+<h3>:snake: Gecenin İzleri</h3>
+<img src="https://github.com/SemihErgili/SemihErgili/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br>
+<br>
+
+<!-- KAPANIŞ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=B22222&height=50&section=footer&text=Saçma%20saçma%20konuşma%20la.&fontSize=20&fontColor=B22222" />
 
 </div>
