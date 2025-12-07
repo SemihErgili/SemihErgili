@@ -1,53 +1,57 @@
-<!-- ANA MERKEZLEYİCİ -->
+<h2 align="left">Selamlar 👋 Ben Semih</h2>
+
+###
+
 <div align="center">
-
-<br>
-
-<!-- İSTATİSTİKLER (YAN YANA) -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Semih's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihErgili&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- TEKNOLOJİ İKONLARI -->
-<h3>My Tech Stack</h3>
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<!-- SOSYAL MEDYA İKONLARI -->
-<h3>Find Me On</h3>
-<p>
-  <a href="mailto:ergilisemih7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/kemalistdesing/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/SemihErgili"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br>
-
-<!-- HAREKETLİ YILAN GRAFİĞİ -->
-<h3>My Contribution Snake</h3>
-<img src="https://github.com/SemihErgili/SemihErgili/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<br>
-<br>
-
-<!-- SPOTIFY: ŞU AN ÇALAN ŞARKI -->
-<h3>Now Playing on Spotify</h3>
-<a href="https://open.spotify.com/user/SENIN_SPOTIFY_KULLANICI_ADIN">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" style="width: 400px; border-radius: 10px;"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SemihErgili&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="400" src="https://c.tenor.com/7A9fOdEahrkAAAAd/tenor.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Pilli Bebek">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pilli%20Bebek&count=4&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SemihErgili/SemihErgili/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SemihErgili/SemihErgili/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SemihErgili/SemihErgili/output/pacman-contribution-graph.svg">
+</picture>
+
+###
