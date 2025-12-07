@@ -1,5 +1,4 @@
-    
-<!-- İKİ SÜTUNLU ANA YAPI (HTML TABLOSU) -->
+<!-- İKİ SÜTUNLU ANA YAPI (TABLO) - ASLA BOZULMAZ -->
 <table>
 <tr>
 
@@ -8,17 +7,18 @@
   <img src="https://c.tenor.com/7A9fOdEahrkAAAAd/tenor.gif" alt="Behzat Ç. GIF" width="100%" />
 </td>
 
-<!-- SAĞ SÜTUN: DİĞER BÜTÜN HER ŞEY -->
+<!-- SAĞ SÜTUN: BÜTÜN BİLGİLER -->
 <td width="50%" valign="top">
   
   <h2 align="center">Selamlar 👋 Ben Semih</h2>
-  <p align="center">Cyber Security & Software Developer from Ankara.</p>
+  <p align="center">
+    Cyber Security & Software Developer from Ankara.
+  </p>
   
   <!-- İSTATİSTİKLER -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SemihErgili&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SemihErgili&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SemihErgili&layout=compact&theme=dracula&hide_border=true" alt="languages graph"/>
   </div>
   
   <br>
@@ -41,12 +41,9 @@
     <p>
       <a href="mailto:ergilisemih7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
       <a href="https://www.instagram.com/kemalistdesing/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
-      <a href="https://www.linkedin.com/in/semihergili/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
     </p>
   </div>
   
 </td>
 </tr>
 </table>
-
-  
